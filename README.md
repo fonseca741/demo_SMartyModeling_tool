@@ -5,5 +5,5 @@ SMartyModeling is an environment for Software Product Line (SPL) modeling, with 
 #### To run
 To run SMartyModeling, you need use Java 8 (<https://www.java.com/pt_BR/download/faq/java8.xml>):
 
-$ java SMartyModeling.jar
+$ java -jar SMartyModeling.jar
 
